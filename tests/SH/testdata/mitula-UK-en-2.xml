@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <address>Clarence Gardens</address>
+   <agency>spotahome</agency>
+   <air_conditioning>0</air_conditioning>
+   <booking_period>
+      <booking_end>2100-01-01</booking_end>
+      <booking_start>2019-12-02</booking_start>
+   </booking_period>
+   <by_owner>0</by_owner>
+   <city>London</city>
+   <content>**The easy choice**
+
+_Because I want to pack my bags and move straight in._
+
+**Will I like it here?**
+
+We think so
+
+Are you looking for a spacious room in an enviable location? Lots of rooms means lots of new friends. Get social!
+
+**Really? Tell me more...**
+
+You will love the setup here. It’s a stylish apartment with all the basics and a generous kitchen and dining area. Round up the troops and get cooking. There’s no better way to make friends than with food.
+
+We think this apartment is ideal for sociable individuals looking for a location to match their fun-loving lifestyle. Camden is a happening spot, close to late night music venues, authentic eateries, and lush green public parks.
+
+**Your top 3 reasons to rent here:**
+
+- The bedrooms are nicely furnished and spacious.
+- The modern kitchen. What's your speciality?
+- The Regent's Park is just a short stroll away.
+
+**But you need to know this…**
+
+- The apartment is located on the 2nd floor and there is no elevator – get in a free leg workout every day.
+
+**Your Home-checker, Kamil, said:**
+
+_"This apartment has spacious rooms and is in a great location. The underground is only a 6-minute walk away.”_
+
+**Help me make up my mind…**
+
+This is a spacious 2nd floor, 6-bedroom apartment on Clarence Gardens, London. It boasts spacious bedrooms, a fully equipped kitchen, and a cosy dining area.
+
+This property is ideal for sociable individuals. You’ll be in a lively neighborhood, with great nightlife, authentic restaurants, and iconic spots like The Regent's Park close by.</content>
+   <country>Uk</country>
+   <date>02/12/2019</date>
+   <dishwasher>0</dishwasher>
+   <dryer>0</dryer>
+   <equipped_kitchen>1</equipped_kitchen>
+   <floor_area>0</floor_area>
+   <foreclosure>0</foreclosure>
+   <id>380743</id>
+   <is_furnished>1</is_furnished>
+   <latitude>51.52787166</latitude>
+   <longitude>-0.14310179999994</longitude>
+   <max_stay>0</max_stay>
+   <min_stay>90</min_stay>
+   <number_bathrooms>1</number_bathrooms>
+   <number_rooms>6</number_rooms>
+   <oven>1</oven>
+   <pictures>
+      <picture>
+         <element>
+            <picture_title>Bedroom 4</picture_title>
+            <picture_url>https://d1052pu3rm1xk9.cloudfront.net/fsosw_960_540_verified_ur_6_50/2d2bf170c88708a534e6bcf39bf79730b2936cceb68942ba9e82f535.jpg</picture_url>
+         </element>
+         <element>
+            <picture_title>Bedroom 4</picture_title>
+            <picture_url>https://d1052pu3rm1xk9.cloudfront.net/fsosw_960_540_verified_ur_6_50/83536f6b85c9bee8a3ce7ad76c67637f04a4fc2b59b07ce703d13a3f.jpg</picture_url>
+         </element>
+         <element>
+            <picture_title>Bedroom 4</picture_title>
+            <picture_url>https://d1052pu3rm1xk9.cloudfront.net/fsosw_960_540_verified_ur_6_50/24352aa488c53959af959e2040b063c32e126722c3c03fc25b2a33c0.jpg</picture_url>
+         </element>
+      </picture>
+   </pictures>
+   <price>715</price>
+   <property_type>apartment</property_type>
+   <rent_type>shared_room</rent_type>
+   <rooms>6</rooms>
+   <smoking_allowed>0</smoking_allowed>
+   <terrace_balcony>0</terrace_balcony>
+   <title>Room to rent in 6-bedroom apartment in Camden</title>
+   <tv>0</tv>
+   <type>for rent</type>
+   <url>https://www.spotahome.com/london/for-rent:rooms/380743</url>
+   <washing_machine>1</washing_machine>
+</root>
